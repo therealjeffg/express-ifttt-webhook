@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "async": "^0.9.0",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.15",
     "multiline": "^1.0.1",
     "validator": "^3.22.2",
     "xml2js": "^0.4.4"
